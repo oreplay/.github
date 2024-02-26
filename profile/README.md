@@ -15,6 +15,6 @@ We have to acknowledge the support from the Spanish Orienteering Federation and,
 ## Repositories
 The project is broken down into three different repositories.
 
-- [oreplay](https://github.com/oreplay/oreplay-backend): back-end of the web application
-- [oreplay-react](https://github.com/oreplay/oreplay-frontend): front-end of the web application
+- [oreplay-bakend](https://github.com/oreplay/oreplay-backend): back-end of the web application
+- [oreplay-frontend](https://github.com/oreplay/oreplay-frontend): front-end of the web application
 - [desktop-client](https://github.com/oreplay/desktop-client): Client to upload results from external timekeeping software.
