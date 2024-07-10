@@ -18,3 +18,9 @@ The project is broken down into three different repositories.
 - [oreplay-bakend](https://github.com/oreplay/oreplay-backend): back-end of the web application
 - [oreplay-frontend](https://github.com/oreplay/oreplay-frontend): front-end of the web application
 - [desktop-client](https://github.com/oreplay/desktop-client): Client to upload results from external timekeeping software.
+
+## Contact
+support @ oreplay.es
+
+## License
+[MIT License](https://opensource.org/license/mit)
