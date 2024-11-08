@@ -1,6 +1,6 @@
 # O-Replay
 
-[oreplay.es](oreplay.es) is a free web service that aims to provide a modern, user-friendly and open source hub to all orienteering events. Live and final results can be uploaded to be displayed during and after the event.
+[www.oreplay.es](www.oreplay.es) is a free web service that aims to provide a modern, user-friendly and open source hub to all orienteering events. Live and final results can be uploaded to be displayed during and after the event.
 
 Unlike other main platforms such as [liveresultats](https://liveresultat.orientering.se/) we are working on the support of all kinds of orienteering events, not just O-foot competitions. Results for relay, score or Trail-O can be uploaded as well
 
